@@ -1,5 +1,5 @@
-CREATE DATABASE lebi;
-USE lebi;
+CREATE DATABASE sus;
+USE sus;
 
 select * from pacientes;
 -- TRUNCATE TABLE Pacientes;
